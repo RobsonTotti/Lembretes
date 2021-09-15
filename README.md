@@ -6,4 +6,4 @@ Armazena todas as informações em um banco de dados local, SQLite
 
 ## Demonstração
 
-<img src="https://github.com/RobsonTotti/ReadmeImages/blob/main/lembretes.gif?raw=true"/>
+<img src="https://i.imgur.com/39BcCC5.gif"/>
